@@ -27,12 +27,12 @@ sᴛɪʟʟ ʀᴇᴀᴅɪɴɢ?
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ ʙᴏᴛ sᴛᴀᴛᴜs ᴀɴᴅ ᴍᴏʀᴇ ʙᴏᴛs ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ ʙᴏᴛ sᴛᴀᴛᴜs ᴀɴᴅ ᴍᴏʀᴇ ʙᴏᴛs ✨", url="https://t.me/Z_Bots")],
         [
             InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜsᴇ ❔", callback_data="help"),
             InlineKeyboardButton("🎪 ᴀʙᴏᴜᴛ 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ ᴍᴏʀᴇ ᴀᴍᴀᴢɪɴɢ ʙᴏᴛs ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("♥ ᴍᴏʀᴇ ᴀᴍᴀᴢɪɴɢ ʙᴏᴛs ♥", url="https://t.me/Z_Bots")],
     ]
 
     # Help Message
