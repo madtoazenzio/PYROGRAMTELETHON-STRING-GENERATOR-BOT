@@ -30,21 +30,20 @@ sᴛɪʟʟ ʀᴇᴀᴅɪɴɢ?
         [InlineKeyboardButton("✨ ʙᴏᴛ sᴛᴀᴛᴜs ᴀɴᴅ ᴍᴏʀᴇ ʙᴏᴛs ✨", url="https://t.me/StarkBots/7")],
         [
             InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜsᴇ ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("🎪 ᴀʙᴏᴜᴛ 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("♥ ᴍᴏʀᴇ ᴀᴍᴀᴢɪɴɢ ʙᴏᴛs ♥", url="https://t.me/StarkBots")],
     ]
 
     # Help Message
     HELP = """
-✨ **Available Commands** ✨
-
-/about - About The Bot
-/help - This Message
-/start - Start the Bot
-/generate - Start Generating Session
-/cancel - Cancel the process
-/restart - Cancel the process
+✨ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ✨
+/about - ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴏᴛ
+/help - ᴛʜɪs ᴍᴇssᴀɢᴇ
+/start - sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ
+/generate - sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ
+/cancel - ᴄᴀɴᴄᴇʟ ᴛʜᴇ ᴘʀᴏᴄᴇss
+/restart - ʀᴇsᴛᴀʀᴛ ʙᴏᴛ
 """
 
     # About Message
