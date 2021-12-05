@@ -48,15 +48,10 @@ sᴛɪʟʟ ʀᴇᴀᴅɪɴɢ?
 
     # About Message
     ABOUT = """
-**About This Bot** 
-
-A telegram bot to generate pyrogram and telethon string session by @StarkBots
-
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
-
-Framework : [Pyrogram](docs.pyrogram.org)
-
-Language : [Python](www.python.org)
-
-Developer : @StarkProgrammer
+**ᴀʙᴏᴜᴛ ᴛʜɪs ʙᴏᴛ** 
+ᴀ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙʏ @Z_Bots
+⭕ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/madtoazenzio/PYROGRAMTELETHON-STRING-GENERATOR-BOT)
+⭕ ꜰʀᴀᴍᴇᴡᴏʀᴋ : [ᴘʏʀᴏɢʀᴀᴍ](http://docs.pyrogram.org)
+⭕ ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](http://www.python.org)
+⭕ ᴅᴇᴠᴇʟᴏᴘᴇʀ : @Z_Bots
     """
